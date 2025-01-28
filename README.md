@@ -1,4 +1,4 @@
-# Online Store - Frontend Repository
+# PistachioHut Online Store - Repository
 The platform is accessible at **https://pistachiohut.store/** and is designed solely for educational use, with a simulated payment process.
 
 <img width="1707" alt="Screenshot 2025-01-29 at 00 45 56" src="https://github.com/user-attachments/assets/9bf73597-18de-4cab-814e-0ca1c88fed5f" />
