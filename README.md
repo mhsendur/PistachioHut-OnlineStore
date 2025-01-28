@@ -1,6 +1,10 @@
 # Online Store - Frontend Repository
+The platform is accessible at **https://pistachiohut.store/** and is designed solely for educational use, with a simulated payment process.
+
+<img width="1707" alt="Screenshot 2025-01-29 at 00 45 56" src="https://github.com/user-attachments/assets/9bf73597-18de-4cab-814e-0ca1c88fed5f" />
 
 ## 📚 Overview
+
 This repository contains the **frontend code** for the Online Store project, developed as part of the **CS308 Software Engineering course** at Sabanci University. The application allows users to browse products, add them to a shopping cart, and purchase them, while also providing features for administrators to manage products and orders. The frontend is built using **React.js**, ensuring a modern, dynamic, and responsive user interface.
 
 ---
@@ -49,12 +53,21 @@ Follow these steps to run the project locally:
 
 ---
 
+<img width="1264" alt="Screenshot 2025-01-29 at 00 46 54" src="https://github.com/user-attachments/assets/211538de-13ea-4dd3-8ed9-e688d0b95a04" />
+
+<img width="1259" alt="Screenshot 2025-01-29 at 00 47 52" src="https://github.com/user-attachments/assets/3e6f98a7-cb39-49e1-86de-dbd698ec0e71" />
+
+---
+
 ## 🧪 Project Contributors
 
-- Ismail Cakmak
+- Ismail Çakmak
 - Sadiq Qara
-- Serhan YILMAZ
+- Serhan Yılmaz
 - Mustafa Harun Şendur
 - Mustafa Mert Yıldızbaş
 - Osman Enes Erdoğdu
+  
 ---
+
+
